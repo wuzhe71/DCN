@@ -7,3 +7,5 @@ DeNet: [BaiduYun](https://pan.baidu.com/s/1vZN8HPeTrCBbnLZV4skD-g) (code:1zx9),
 DCN: [BaiduYun](https://pan.baidu.com/s/1SeBQd9_Fx0huVl7c1tMnsA) (code:z5mf)
 
 # saliency maps
+RGB-SOD:
+DCN: [BaiduYun](https://pan.baidu.com/s/1VEmxeLutQxIZL02mMlYXcw) (code:shhh)
