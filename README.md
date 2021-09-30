@@ -1,6 +1,10 @@
 # DCN
 Code repository for our [paper](https://ieeexplore.ieee.org/document/9479697) “Decomposition and Completion Network for Salient Object Detection”, accepted by TIP 2021.
 
+# Skeletions for training
+
+Noisy skeletion maps of DUTS training set: [BaiduYun](https://pan.baidu.com/s/1X-9ePiHxWkdxA8steL4sXw)(code:924y)
+
 # pretrained models
 RGB-SOD:  
 DeNet: [BaiduYun](https://pan.baidu.com/s/1vZN8HPeTrCBbnLZV4skD-g) (code:1zx9)   
