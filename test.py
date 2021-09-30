@@ -34,7 +34,7 @@ data_path = 'D:/code/SalientObject/dataset/'
 model = DCN(channel=config.channel)
 if torch.cuda.is_available():
     model.cuda()
-model.load_state_dict(torch.load('./models/DCN.pth', map_location='cpu'))
+model.load_state_dict(torch.load('./models/DCN.pth'))
 
 valset = ['ECSSD', 'HKUIS', 'PASCAL', 'DUT-OMRON', 'DUTS-TEST']
 model.eval()
