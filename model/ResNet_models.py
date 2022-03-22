@@ -389,7 +389,7 @@ class Refine(nn.Module):
 class DCN(nn.Module):
     def __init__(self, channel):
         super(DCN, self).__init__()
-        self.stage1 = Baseline1(channel)
+        self.stage1 = DeNet(channel)
         self.stage2 = Refine(channel//4, use_rl=False)
 
     def forward(self, ins):
