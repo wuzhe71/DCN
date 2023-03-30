@@ -12,7 +12,7 @@ DCN: [BaiduYun](https://pan.baidu.com/s/1SeBQd9_Fx0huVl7c1tMnsA) (code:z5mf)
 
 # saliency maps
 RGB-SOD:  
-DCN: [BaiduYun](https://pan.baidu.com/s/1VEmxeLutQxIZL02mMlYXcw) (code:shhh)
+DCN: [BaiduYun](https://pan.baidu.com/s/1VEmxeLutQxIZL02mMlYXcw) (code:shhh)[Google Drive](https://drive.google.com/file/d/1pRsm3g4lK7kGbScHC5ss049Rvny0fnWC/view?usp=share_link)
 
 RGBD-SOD:   
-DCN: [BaiduYun](https://pan.baidu.com/s/1OneTsoXjxItcG-Xi4PdLQg) (code:md83)
+DCN: [BaiduYun](https://pan.baidu.com/s/1OneTsoXjxItcG-Xi4PdLQg) (code:md83)[Google Drive](https://drive.google.com/file/d/1gAH_HJBTWRvYjfe3l0w2IkHGNI9hBL_d/view?usp=share_link)
